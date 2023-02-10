@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "anim.h": "c",
+        "mousewheel.h": "c",
+        "keyboard.h": "c",
+        "mouse.h": "c",
+        "monitor.h": "c",
+        "sdl.h": "c",
+        "lvgl.h": "c",
+        "lv_common.h": "c",
+        "stdio.h": "c",
+        "muyu_page.h": "c"
+    }
+}
